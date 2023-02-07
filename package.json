@@ -1,0 +1,26 @@
+{
+  "name": "pypre",
+  "version": "1.0.0",
+  "description": "An npm binary package for preconfiguring files using placeholder syntax.",
+  "main": "bin/pypre.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihiiro/Pypre.git"
+  },
+  "type": "module",
+  "bin": {
+    "pypre": "./bin/pypre.js"
+  },
+  "keywords": [
+    "Python",
+    "javascript",
+    "nodejs",
+    "preconfigure"
+  ],
+  "author": "hiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ihiiro/Pypre/issues"
+  },
+  "homepage": "https://github.com/ihiiro/Pypre#readme"
+}
