@@ -32,7 +32,7 @@ now in your project's package.json add:
 }
 ```
 
-run pypre where [yourfilename].preconfig.js is
+run pypre where [yourfilename].preconfig.[some-extension] is
 ```
 npm run pypre
 ```
