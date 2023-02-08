@@ -1,4 +1,4 @@
-# pypre v2.0.3
+# pypre v3.0.0
 
 pypre is an npm binary package for preconfiguring files.
 
@@ -8,6 +8,21 @@ npm install -g pypre
  ```
 
 ## usage
+create package.json file in the directory where you have files to preconfigure:
+```
+npm init -y
+```
+
+go to the root of your project and run :
+```
+npm link
+```
+
+then back to the child directory, run:
+```
+npm link [name-of-your-parent-project]
+```
+
 navigate to the directory where you have files you want to preconfigure and create a single .pypre.json file containing the keys:
 ```json
 {
@@ -25,7 +40,7 @@ add a [yourfilename].preconfig.[some-extension] file, with the following placeho
 $preconfigure_[here include the name of your placeholder, without the brackets and only letters]$
 ```
 
-now in your project's package.json add:
+in the child package.json add:
 ```json
 "scripts": {
   "pypre": "pypre && python3 pypre.py && rm pypre.py"
