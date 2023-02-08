@@ -1,4 +1,4 @@
-# pypre v1.0.0
+# pypre v1.0.3
 
 pypre is an npm binary package for preconfiguring files prior to runtime.
 
