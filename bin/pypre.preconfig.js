@@ -6,11 +6,11 @@
 
   # requires python3 to be installed globally #
 
-  # author: Yassir Elyakine (hiro) #
-  # email: yassirelyakine@gmail.com #
-  # version: 2.0.0 #
-  # version-date: 08/feb/23 #
-  # creation date: 07/feb/23 #
+  # author: $preconfigure_author$ #
+  # email: $preconfigure_email$ #
+  # version: $preconfigure_version$ #
+  # version-date: $preconfigure_versionDate$ #
+  # creation date: $preconfigure_creationDate$ #
 
  */
 
