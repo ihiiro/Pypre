@@ -1,6 +1,6 @@
 {
   "name": "pypre",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "An npm binary package for preconfiguring files using placeholder syntax.",
   "main": "bin/pypre.js",
   "repository": {
