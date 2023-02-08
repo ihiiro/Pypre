@@ -7,7 +7,7 @@
   # requires python3 to be installed globally #
 
   # author: hiro #
-  # version: 1.0.1 #
+  # version: 1.0.2 #
   # creation date: 02/07/2023 #
 
  */
