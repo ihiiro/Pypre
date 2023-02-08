@@ -8,7 +8,7 @@
 
   # author: Yassir Elyakine (hiro) #
   # email: yassirelyakine@gmail.com #
-  # version: 2.0.0 #
+  # version: 2.0.2 #
   # version-date: 08/feb/23 #
   # creation date: 07/feb/23 #
 

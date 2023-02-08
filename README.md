@@ -1,6 +1,6 @@
-# pypre v2.0.0
+# pypre v2.0.2
 
-#### pypre is an npm binary package for preconfiguring files.
+pypre is an npm binary package for preconfiguring files.
 
 ## install
 ```
@@ -32,7 +32,7 @@ now in your project's package.json add:
 }
 ```
 
-run pypre where [yourfilename].preconfig.[some-extension] is
+run pypre where [yourfilename].preconfig.js is
 ```
 npm run pypre
 ```
